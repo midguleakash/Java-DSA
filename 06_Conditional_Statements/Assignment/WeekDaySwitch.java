@@ -6,9 +6,12 @@ import java.util.* ;
 
 public class WeekDaySwitch {
     public static void main(String[] args){
+
+        //
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("enter input number from 1 to 7 : ");
+        System.out.print("enter input number from 1 to 7 : ");    
+        // take input
         int n = sc.nextInt();
 
         switch(n){
