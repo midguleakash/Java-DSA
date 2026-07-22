@@ -1,3 +1,5 @@
+// print reverse number without store in variable
+
 public class ReverseANumber {
     public static void main(String[] args){
         int n = 123654;
