@@ -26,7 +26,7 @@ public class SwapNumber {
 
         swap(list,2,5);
 
-        System.out.println("before swap");
+        System.out.println("after swap");
         System.out.println(list);
     }
 
