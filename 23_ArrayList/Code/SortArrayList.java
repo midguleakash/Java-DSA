@@ -1,4 +1,4 @@
-//sort element in asending order in ArrayList using inbuilt method
+//sort element in ascending and descending order in ArrayList using inbuilt method
 
 import java.util.ArrayList;
 import java.util.Collections ;
