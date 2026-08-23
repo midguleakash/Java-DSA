@@ -1,5 +1,14 @@
 // print solid rhoumbs
 
+/*
+        * * * * * 
+      * * * * * 
+    * * * * * 
+  * * * * * 
+* * * * * 
+
+*/
+
 import java.util.Scanner;
 
 public class Pattern11 {
