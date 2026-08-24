@@ -1,4 +1,10 @@
-// print sqaure pattern using loop
+// print sqaure pattern using loop for value n
+*****
+*****
+*****
+*****
+*****
+
 
 import java.util.* ;
 
