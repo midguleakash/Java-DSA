@@ -17,6 +17,7 @@ public class Stopwatch_Missing_Digit {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter input in this formate hh:mm:ss : ");
 
         String time = sc.nextLine();
 
